@@ -9,6 +9,7 @@ class TrieNode {
     int prefixCount = 0;
 }
 
+
 public class Trie {
     private TrieNode root;
 
